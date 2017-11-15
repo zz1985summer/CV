@@ -66,9 +66,22 @@ body{
   }
 
   #footer{
-    margin-top:120em;
+    margin-top:130em;
     min-height: 7em;
     text-align:center;
+  }
+
+  #right-side ul li h3{
+    color:#009999;
+  }
+
+  #right-side ul li p{
+    color:#666;
+    font-size: 1.1em;
+    line-height: 1.6em;
+    padding-right:3em;
+    margin-right:2em;
+    font-family: "Microsoft YaHei",sans-serif;
   }
 
 
