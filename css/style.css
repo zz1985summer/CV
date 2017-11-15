@@ -1,0 +1,108 @@
+body{
+    background-color:#9999CC;
+  }
+
+  #cv{
+    background-color:#fff;
+  }
+
+  .page-header{
+    border-bottom:1px solid #d0d0d0;
+  }
+  
+  #user-profile dt{
+    float:left;
+    width:120px;
+    text-align: left;
+    font-size:1.1em;
+    line-height: 2em;
+  }
+
+  #user-profile dd{
+    margin-left:0px;
+    font-size:1.1em;
+  }
+
+  #user-contact dt{
+    float:left;
+    width:5em;
+    text-align: left;
+    font-size:1.1em;
+    line-height: 2em;
+  }
+
+  #user-contact dd{
+    margin-left:0px;
+    font-size:1em;
+  }
+
+  #skill-point dt{
+    float:left;
+    width:90px;
+    text-align: left;
+    font-size:1.1em;
+    line-height: 2em;
+  }
+
+  #skill-point dd{
+    margin-left:0px;
+  }
+
+  #skill-stack dt{
+    float:left;
+    width:4em;
+    text-align: left;
+    font-size:1.1em;
+    line-height: 2em; 
+  }
+
+  #skill-stack dd{
+    margin-left:4em;
+    font-size:1.1em; 
+  }
+
+  #wechat-pic{
+      width:15em;
+  }
+
+  #footer{
+    margin-top:120em;
+    min-height: 7em;
+    text-align:center;
+  }
+
+
+  @media screen (max-width:1183px){
+    #user-profile dt{
+        float:left;
+        width: 100%;
+        text-align: left;
+        font-size:1.1em;
+        line-height: 2em;
+      }
+    
+      #user-profile dd{
+        margin-left:0px;
+        font-size:1.1em;
+      }
+    
+      #user-contact dt{
+        float:left;
+        width:100%;
+        text-align: left;
+        font-size:1.1em;
+        line-height: 2em;
+      }
+    
+      #user-contact dd{
+        width:100%;
+        margin-left:0px;
+        font-size:1.1em;
+      }
+
+      #footer{
+        margin-top:150em;
+        min-height: 7em;
+        text-align:center;
+      }
+  }
